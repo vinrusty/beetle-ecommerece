@@ -1,0 +1,28 @@
+.cart-list-wrapper{
+    margin-top: 75px; 
+    display: flex; 
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 2rem;
+}
+
+.item-detail{
+    padding: 1.6rem;
+}
+
+.item-detail>h3{
+    margin: 5px;
+}
+
+.item-detail>p{
+    margin: 5px;
+}
+
+.bread-crumb>ol>li>p{
+    margin: 5px;
+}
+
+.cart-empty{
+    width: 50%;
+}

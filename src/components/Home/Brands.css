@@ -1,0 +1,16 @@
+.brand-images{
+    width: 200px;
+    margin: 10px;
+}
+
+.brands-wrapper{
+    padding: 2rem;
+    height: 50vh;
+}
+
+@media screen and (max-width: 600px){
+    .brand-images{
+        width: 100px;
+        margin: 10px;
+    }
+}

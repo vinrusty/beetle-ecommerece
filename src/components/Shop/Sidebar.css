@@ -1,0 +1,15 @@
+.sidebar-wrapper{
+    display: flex;
+}
+
+.sidebar::-webkit-scrollbar-thumb{
+    background: none;
+}
+
+.sidebar:hover::-webkit-scrollbar-thumb{
+    background: gray;
+}
+
+.card-img{
+    width: 100%;
+}
